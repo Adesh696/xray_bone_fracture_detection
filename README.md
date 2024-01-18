@@ -23,6 +23,5 @@ Results:
  
   
   Output: [runs/detect/predict2/](runs/detect/predict2/)
-
-          [runs/detect/predict/](runs/detect/predict/)
+          [runs/detect/predict](runs/detect/predict)
 

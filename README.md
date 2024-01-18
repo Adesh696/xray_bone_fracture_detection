@@ -1,4 +1,4 @@
-"# xray_bone_fracture_detection" 
+# xray_bone_fracture_detection" 
 
 
 <h2>Sample Output: </h2>

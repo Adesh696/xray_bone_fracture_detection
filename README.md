@@ -12,13 +12,17 @@
 
 model : Yolov8
 
-Weights: train/weights
+Weights:  [train/weightsle](train/weights)
+ 
 
 Results:
   Train: [runs/detect/train/](runs/detect/train/)
 
   
-  Val: runs/detect/val/
+  Val: [runs/detect/val/](runs/detect/val/)
+ 
   
-  Output: runs/detect/predict2/
-          runs/detect/predict/
+  Output: [runs/detect/predict2/](runs/detect/predict2/)
+
+          [runs/detect/predict/](runs/detect/predict/)
+

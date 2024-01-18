@@ -15,7 +15,8 @@ model : Yolov8
 Weights: train/weights
 
 Results:
-  Train: runs/detect/train/
+  Train: [runs/detect/train/](runs/detect/train/)
+
   
   Val: runs/detect/val/
   
